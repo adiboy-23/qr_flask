@@ -18,3 +18,4 @@
     - run  ```flask run ```  to start the server/app
 
 - <img width="600" alt="Screenshot 2024-06-17 at 08 37 04" src="https://github.com/adiboy-23/qr_flask/assets/123615666/6e75aa84-fdae-40ad-bb84-58bd20792c3b">
+- scan the above code 😄
